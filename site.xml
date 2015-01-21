@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/dsl3s.profile.feature_0.5.0.201501211612.jar" id="dsl3s.profile.feature" version="0.5.0.201501211612">
+      <category name="dsl3s.cateogry"/>
+   </feature>
+   <feature url="features/dsl3s.mdd3s.feature_0.5.0.201501211612.jar" id="dsl3s.mdd3s.feature" version="0.5.0.201501211612">
+      <category name="dsl3s.cateogry"/>
+   </feature>
+   <category-def name="dsl3s.cateogry" label="DSL3S">
+      <description>
+         DSL3S - Domain Specific Language for Spatial Simulation Scenarios
+      </description>
+   </category-def>
+</site>
